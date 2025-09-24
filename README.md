@@ -1,5 +1,5 @@
 
-##Containerization of a Two-Tier Application using Docker, Docker Compose, and Image Scanning with Docker Scout
+# Containerization of a Two-Tier Application using Docker, Docker Compose, and Image Scanning with Docker Scout
 
 ![WhatsApp Image 2025-09-24 at 10 13 21_46c20df8](https://github.com/user-attachments/assets/06e75439-bcab-4879-8be2-46196254b8f8)
 ![WhatsApp Image 2025-09-24 at 10 13 23_94d54032](https://github.com/user-attachments/assets/341b1974-0878-444c-a3a2-2930f41a80d3)
