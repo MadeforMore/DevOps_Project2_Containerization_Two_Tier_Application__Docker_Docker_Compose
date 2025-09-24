@@ -2,6 +2,9 @@ Perfect bro 👍 I’ll now combine **everything** into a single **deep and clea
 This version will:
 
 ![WhatsApp Image 2025-09-24 at 10 13 21_46c20df8](https://github.com/user-attachments/assets/06e75439-bcab-4879-8be2-46196254b8f8)
+![WhatsApp Image 2025-09-24 at 10 13 23_94d54032](https://github.com/user-attachments/assets/341b1974-0878-444c-a3a2-2930f41a80d3)
+![WhatsApp Image 2025-09-24 at 10 13 23_7722df34](https://github.com/user-attachments/assets/d651381b-647a-4067-abf6-70573f23a9c2)
+
 
 * Include **setup steps**
 * Add your **beginner-friendly Dockerfile & docker-compose.yml explanations**
