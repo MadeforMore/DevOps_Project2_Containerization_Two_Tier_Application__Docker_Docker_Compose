@@ -260,15 +260,6 @@ docker-compose up --build
 
 ---
 
-## 📌 Architecture Diagram
-
-```mermaid
-graph LR
-A[Browser / Client] --> B[Nginx Web Server]
-B --> C[Django App (Gunicorn)]
-C --> D[(MySQL Database)]
-```
-
 👉 **Flow:** Browser → Nginx → Django → MySQL
 
 ---
