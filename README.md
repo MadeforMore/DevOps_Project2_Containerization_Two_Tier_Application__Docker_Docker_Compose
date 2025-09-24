@@ -1,6 +1,8 @@
 Perfect bro 👍 I’ll now combine **everything** into a single **deep and clean `README.md` file**.
 This version will:
 
+![WhatsApp Image 2025-09-24 at 10 13 21_46c20df8](https://github.com/user-attachments/assets/06e75439-bcab-4879-8be2-46196254b8f8)
+
 * Include **setup steps**
 * Add your **beginner-friendly Dockerfile & docker-compose.yml explanations**
 * Contain a **diagram (with Markdown image placeholder)** for architecture
