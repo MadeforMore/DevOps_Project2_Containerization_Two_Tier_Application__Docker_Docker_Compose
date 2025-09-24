@@ -6,8 +6,6 @@ This version will:
 * Contain a **diagram (with Markdown image placeholder)** for architecture
 * Be fully formatted for GitHub copy–paste 🚀
 
-Here’s your final **`README.md`**:
-
 ````markdown
 # 📝 Django Notes App
 
